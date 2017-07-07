@@ -24,60 +24,98 @@
 
         </LinearLayout>
 
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:padding="10dp">
 
-            <TextView
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <Button
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:text="Zona Pastoral 'A' LA VEGA"
-                android:textColor="@android:color/white"
+                android:textColor="@android:color/black"
+                android:background="@android:color/holo_blue_light"
                 android:textSize="20sp"
-                android:padding="10dp"/>
-            <TextView
+                android:padding="2dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <Button
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:text="Zona Pastoral 'B' LA VEGA"
-                android:textColor="@android:color/white"
+                android:textColor="@android:color/black"
+                android:background="@android:color/holo_blue_light"
                 android:textSize="20sp"
                 android:padding="10dp"/>
-            <TextView
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <Button
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:text="Zona Pastoral 'C' BONAO"
-                android:textColor="@android:color/white"
+                android:textColor="@android:color/black"
+                android:background="@android:color/holo_blue_light"
                 android:textSize="20sp"
                 android:padding="10dp"/>
-            <TextView
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <Button
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:text="Zona Pastoral 'D' COTUI"
-                android:textColor="@android:color/white"
+                android:textColor="@android:color/black"
+                android:background="@android:color/holo_blue_light"
                 android:textSize="20sp"
                 android:padding="10dp"/>
-            <TextView
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <Button
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:text="Zona Pastoral 'E' SALCEDO"
-                android:textColor="@android:color/white"
+                android:textColor="@android:color/black"
+                android:background="@android:color/holo_blue_light"
                 android:textSize="20sp"
                 android:padding="10dp"/>
-            <TextView
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <Button
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:text="Zona Pastoral 'F' CONSTANZA"
-                android:textColor="@android:color/white"
+                android:textColor="@android:color/black"
+                android:background="@android:color/holo_blue_light"
                 android:textSize="20sp"
                 android:padding="10dp"/>
+        </LinearLayout>
 
          </LinearLayout>
-</ScrollView>
 
 </LinearLayout>

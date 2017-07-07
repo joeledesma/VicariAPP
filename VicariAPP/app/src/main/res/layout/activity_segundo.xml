@@ -28,19 +28,23 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:padding="10dp">
+        android:padding="5dp">
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Comisión Diocesana de Pastoral Educativa"
-            android:textColor="@android:color/white"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_blue_light"
+            android:textAlignment="center"
             android:textSize="20sp"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Juana Milagros Tejada (Esther). Altagraciana."
-            android:textColor="@android:color/white"
+            android:textColor="@android:color/black"
+            android:background="@color/Rosado"
+            android:textAlignment="center"
             android:textSize="15sp"/>
 
     </LinearLayout>
@@ -49,19 +53,23 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
-    android:padding="10dp">
+    android:padding="5dp">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Comisión Diocesana de Catequesis"
-        android:textColor="@android:color/white"
+        android:textColor="@android:color/black"
+        android:background="@android:color/holo_blue_light"
+        android:textAlignment="center"
         android:textSize="20sp"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="P. Heberto Suriel"
-        android:textColor="@android:color/white"
+        android:textColor="@android:color/black"
+        android:background="@color/Rosado"
+        android:textAlignment="center"
         android:textSize="15sp"/>
 
 </LinearLayout>
@@ -70,19 +78,23 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:padding="10dp">
+        android:padding="5dp">
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Comisión Diocesana de Medio Ambiente"
-            android:textColor="@android:color/white"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_blue_light"
+            android:textAlignment="center"
             android:textSize="20sp"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="P. José Domingo Meléndez"
-            android:textColor="@android:color/white"
+            android:textColor="@android:color/black"
+            android:background="@color/Rosado"
+            android:textAlignment="center"
             android:textSize="15sp"/>
 
     </LinearLayout>
@@ -91,19 +103,23 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:padding="10dp">
+        android:padding="5dp">
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Comisión Diocesana de Pastoral Juvenil"
-            android:textColor="@android:color/white"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_blue_light"
+            android:textAlignment="center"
             android:textSize="20sp"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="P. ++++++++++++++++++"
-            android:textColor="@android:color/white"
+            android:textColor="@android:color/black"
+            android:background="@color/Rosado"
+            android:textAlignment="center"
             android:textSize="15sp"/>
 
     </LinearLayout>
